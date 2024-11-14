@@ -18,4 +18,4 @@ Universitat Oberta de Catalunya​
 + isotype chart ver [Isotype: Muertes de hombres y mujeres por grupo de edad](https://infogram.com/covid-19-1h7v4pdjwlovj4k?live).
 + beswarmchart.png es el beswarm chart generado.
 + visual-data-UOC.ppt es la presentación del proyecto.
-+ [Aquí el vídeo de presentación]([https://localhost](https://youtu.be/765FVtegN-A)).
++ [Aquí el vídeo de presentación](https://localhost](https://youtu.be/765FVtegN-A).
